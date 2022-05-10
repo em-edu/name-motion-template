@@ -1,0 +1,9 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="morphsvg">
+<rect width="1280" height="720" fill="white"/>
+<rect id="rect" x="483" y="203" width="314" height="314" fill="#C4C4C4" stroke="black" stroke-width="2"/>
+<path id="tria" d="M424.458 517.5L639.5 203.769L854.542 517.5H424.458Z" fill="#FF0000" stroke="black" stroke-width="2"/>
+<path id="star" d="M640 205.236L678.114 322.54L678.339 323.231H679.065L802.406 323.231L702.621 395.729L702.034 396.156L702.258 396.847L740.373 514.151L640.588 441.653L640 441.226L639.412 441.653L539.627 514.151L577.742 396.847L577.966 396.156L577.379 395.729L477.594 323.231L600.935 323.231H601.661L601.886 322.54L640 205.236Z" fill="#0060EF" stroke="black" stroke-width="2"/>
+<rect id="purple-rect" x="390" y="120" width="250" height="250" fill="#B41AEA"/>
+</g>
+</svg>

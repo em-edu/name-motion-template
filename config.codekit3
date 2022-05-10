@@ -17,6 +17,26 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/_ASSETS/morphsvg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_ASSETS/morphsvg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_ASSETS/morphsvg_v2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_ASSETS/morphsvg_v2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -45,6 +65,14 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/dev/content/svg-content.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/content/svg-content.html",
+		"oF": 0
 		},
 	"/dev/global/head.kit": {
 		"cB": 0,
@@ -237,6 +265,39 @@
 		"oA": 2,
 		"oAP": "/build/node_modules",
 		"oF": 0
+		},
+	"/node_modules/gsap/CSSPlugin.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/gsap/CSSPlugin-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/gsap/gsap-core.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/gsap/gsap-core-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/gsap/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/gsap/index-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"/package-lock.json": {
 		"ft": 524288,
